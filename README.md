@@ -20,22 +20,22 @@ The creation of programming languages was a crucial milestone in software engine
    In response to the limitations of rigid development models like Waterfall, the Agile Manifesto was introduced it emphazied on iterative development, customer collaboration, and flexibility
 
 List and briefly explain the phases of the Software Development Life Cycle.
-Requirements Gathering:
+1. Requirements Gathering:
 This phase involves collecting and documenting user needs and system requirements. It ensures that all stakeholders have a clear understanding of what the software should achieve and how it will meet user expectations.
 
-Design:
+2. Design:
 During this phase, developers create both high-level and detailed designs of the software architecture and user interface. This includes defining the overall structure, programming languages, and security measures to ensure the software is user-friendly and compatible with existing systems.
 
-Implementation:
+3. Implementation:
 In this stage, developers write code and build the software according to the design specifications. The focus is on creating efficient, secure, and maintainable code that aligns with the project's goals.
 
-Testing:
+4. Testing:
 Testing is critical for ensuring the software meets quality standards and functional requirements. Various types of tests are conducted, including unit testing, integration testing, and system testing, to identify and fix bugs before deployment.
 
-Deployment:
+5. Deployment:
 Once testing is complete, the software is released to users or customers. This phase involves setting up the software in the production environment, which can be on-premise or in the cloud, depending on the project's needs.
 
-Maintenance:
+6. Maintenance:
 After deployment, ongoing support is provided to address issues, apply updates, and add new features. This phase ensures that the software remains functional, relevant, and aligned with evolving user needs over time.
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
@@ -48,11 +48,11 @@ Customer involvement in Waterfall is limited, as feedback is typically gathered 
 Testing in Waterfall occurs after the implementation phase, which increases the risk of discovering major issues late in the project. In Agile, testing is integrated into each iteration, allowing for early identification and resolution of problems.
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
-Software Developer
+1. Software Developer
 A Software Developer is responsible for writing, testing, and maintaining code to implement software solutions. They translate project requirements into functional applications by using programming languages, frameworks, and development tools
-Quality Assurance (QA) Engineer
+2. Quality Assurance (QA) Engineer
 A Quality Assurance Engineer ensures that the software meets the required quality standards by designing and executing test plans. They identify defects, report issues, and work closely with developers to ensure bugs are fixed before deployment.
-Project Manager
+3. Project Manager
 A Project Manager oversees the planning, execution, and delivery of software projects. They define project goals, create timelines, allocate resources, and ensure that the development process stays on track. Project managers act as a bridge between stakeholders, developers, and other team members, facilitating communication and resolving conflicts.
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
