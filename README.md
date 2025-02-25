@@ -56,36 +56,36 @@ A Quality Assurance Engineer ensures that the software meets the required qualit
 A Project Manager oversees the planning, execution, and delivery of software projects. They define project goals, create timelines, allocate resources, and ensure that the development process stays on track. Project managers act as a bridge between stakeholders, developers, and other team members, facilitating communication and resolving conflicts.
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
-Integrated Development Environments (IDEs) 
+1. Integrated Development Environments (IDEs) 
 Are essential tools that streamline the software development process by providing a comprehensive suite of features for writing, debugging, and testing code.For example, Visual Studio, NET and C# development, Eclipse is popular for Java programming, and IntelliJ IDEA is a preferred choice for Kotlin and Java development.
-Version Control Systems (VCS)
+2. Version Control Systems (VCS)
 Plays a crucial role in managing source code changes and coordinating work among multiple developers. VCS allows developers to track modifications, revert to previous versions, and collaborate efficiently without the risk of losing progress. (For example, Git, Subversion)
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
-Changing Requirements – Frequent changes cause scope creep and delays.
+a) Changing Requirements – Frequent changes cause scope creep and delays.
 Solution: Use Agile methodologies, maintain clear communication, and design flexible architectures.
-Tight Deadlines – Pressure to deliver quickly can reduce quality.
+b) Tight Deadlines – Pressure to deliver quickly can reduce quality.
 Solution: Prioritize tasks, reassess timelines, and use automation tools to streamline development.
-Technical Debt – Shortcuts lead to long-term maintenance issues.
+c) Technical Debt – Shortcuts lead to long-term maintenance issues.
 Solution: Refactor code, follow best practices, and maintain proper documentation
 
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
-Unit testing 
+1. Unit testing 
 Involves testing individual units or components of the software in isolation. It ensures that each unit functions as expected before integrating it with other components.
-Integration testing 
+2. Integration testing 
 combines two or more units or modules to verify that they work together seamlessly. It checks for interface, communication, and data flow issues between modules.
-System testing 
+3. System testing 
 Evaluates the entire software system to ensure it meets all functional requirements. It simulates real-world scenarios to validate that all components work harmoniously.
-Acceptance testing, 
+4. Acceptance testing, 
 Also referred to as User Acceptance Testing (UAT), involves verifying that the software meets the agreed-upon business and user requirements.
 
 Importance in Software Quality Assurance
-Identify Defects Early: Unit and integration testing help detect issues early, reducing the cost and complexity of fixing them later.
+a) Identify Defects Early: Unit and integration testing help detect issues early, reducing the cost and complexity of fixing them later.
 
-Ensure System Integrity: System testing verifies that all components work together correctly, ensuring the software functions as intended.
+b) Ensure System Integrity: System testing verifies that all components work together correctly, ensuring the software functions as intended.
 
-Validate User Expectations: Acceptance testing confirms that the software meets user needs and expectations, ensuring it provides value to stakeholders.
+c) Validate User Expectations: Acceptance testing confirms that the software meets user needs and expectations, ensuring it provides value to stakeholders.
 
 
 #Part 2: Introduction to AI and Prompt Engineering
@@ -95,13 +95,13 @@ Define prompt engineering and discuss its importance in interacting with AI mode
 Prompt engineering is the practice of designing and refining inputs  to optimize responses from AI models. It involves structuring queries effectively to guide the AI in generating accurate, relevant, and high-quality outputs.
 
 Importance of Prompt Engineering in Interacting with AI Models
-Improved Accuracy and Relevance:
+a) Improved Accuracy and Relevance:
 Well-crafted prompts ensure that AI models understand the intent behind the query, leading to more accurate and relevant outputs
-Improves Efficiency 
+b) Improves Efficiency 
 Optimized prompts reduce the need for multiple attempts to get the desired output, saving time and effort.
-Reduces Ambiguity 
+c) Reduces Ambiguity 
 Clear prompts minimize misinterpretation, ensuring that the AI provides logical and meaningful answers.
-Unlocking AI Potential:
+d) Unlocking AI Potential:
 Prompt engineering plays a pivotal role in unleashing the full potential of generative AI models. By refining prompts, engineers can significantly improve the quality and relevance of AI-generated content, whether it's text or images.
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
