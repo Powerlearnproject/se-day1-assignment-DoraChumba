@@ -105,8 +105,6 @@ Unlocking AI Potential:
 Prompt engineering plays a pivotal role in unleashing the full potential of generative AI models. By refining prompts, engineers can significantly improve the quality and relevance of AI-generated content, whether it's text or images.
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
-prompt is more effective.
-ChatGPT said:
 Vague Prompt:"Tell me about technology."
 Improved Prompt:
 "Explain the impact of artificial intelligence on the healthcare industry, including benefits and challenges."
